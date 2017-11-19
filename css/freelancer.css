@@ -43,7 +43,7 @@ section {
 
 section.success {
   color: white;
-  background: #18BC9C; }
+  background: #0052A5; } /*#18BC9C*/
 
 @media (max-width: 767px) {
   section {
@@ -131,7 +131,7 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-  background: #18BC9C; }
+  background: #E0162B; } /*#18BC9C*/
   header.masthead img {
     display: block;
     margin: 0 auto 20px; }
